@@ -422,8 +422,8 @@ El plan de pruebas contempla la validación individual de cada subsistema y, fin
  
 **Hardware ensamblado:** <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/008c2830-df75-4d52-aa37-ee93279e498f" />
  
-**Simulación en Proteus:** <img width="1106" height="822" alt="image" src="https://github.com/user-attachments/assets/f928ea2f-2a5e-4715-b4b5-d78875a443c6" />
- 
+**Simulación en Proteus:** <img width="1177" height="832" alt="image" src="https://github.com/user-attachments/assets/04a5cdfa-5622-4661-ab26-59bb19f6f437" />
+
 La aceptación final exige que las entradas, el procesamiento, la visualización y los actuadores funcionen en conjunto durante una partida completa, incluyendo la detección del resultado y el bloqueo posterior a una victoria.
  
 ## 8. Etapas siguientes y trabajo futuro
